@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KevinAlbajrami
 - 👀 I’m interested in Java Full Stack Development
 - 🌱 I’m currently learning MORE on Spring Boot, JPA, Spring MVC etc
-- 💞️ I’m looking to collaborate on any project with the tech mentioned earlier
+- 💞️ I’m looking to collaborate on any project with the tech mentioned earlier but I am also open on other oppurtunites
 - 📫 How to reach me kevin.albajrami@gmail.com
 
 <!---
